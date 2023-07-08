@@ -1,2 +1,3 @@
 # univ
-static and responsive university website using html and css
+responsive website for a university using html and css
+
